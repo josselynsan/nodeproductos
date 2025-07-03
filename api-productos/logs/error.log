@@ -68,3 +68,19 @@ Error: Producto no encontrado
   "createdAt": "2025-07-03T18:39:32.260Z"
 }
 
+2025-07-03T20:31:55.404Z [ERROR] Producto 13 no encontrado
+Error: Producto 13 no encontrado
+    at update (/home/josselyn/Documentos/GitHub/nodeproductos/api-productos/controllers/productoController.js:51:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03T20:32:54.371Z [ERROR] Producto 13 no encontrado
+Error: Producto 13 no encontrado
+    at update (/home/josselyn/Documentos/GitHub/nodeproductos/api-productos/controllers/productoController.js:51:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03T20:34:34.976Z [ERROR] Producto 13 no encontrado
+Error: Producto 13 no encontrado
+    at update (/home/josselyn/Documentos/GitHub/nodeproductos/api-productos/controllers/productoController.js:51:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03T20:36:12.638Z [ERROR] Producto 9 no encontrado
+Error: Producto 9 no encontrado
+    at delete (/home/josselyn/Documentos/GitHub/nodeproductos/api-productos/controllers/productoController.js:76:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

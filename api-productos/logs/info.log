@@ -1,0 +1,7 @@
+2025-07-03T20:34:48.811Z [INFO] Producto 13 no encontrado
+2025-07-03T20:35:04.072Z [INFO] Producto 13 no encontrado
+2025-07-03T20:36:12.638Z [ERROR] Producto 9 no encontrado
+Error: Producto 9 no encontrado
+    at delete (/home/josselyn/Documentos/GitHub/nodeproductos/api-productos/controllers/productoController.js:76:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-03T20:36:20.632Z [INFO] Producto 10 eliminado

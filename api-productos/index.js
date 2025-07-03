@@ -6,7 +6,7 @@ require('dotenv').config();
 app.use(express.json());
 
 app.use('/api/auth', require('./routes/authRoutes'));
-app.use('/api/productos', require('./routes/productoRoutes'));
+app.use('/api/productos', require('./routes/productoMediumRoutes'));
 
 db.sync().then(() => {
   app.listen(3000, () => console.log('Servidor en http://localhost:3000'));
