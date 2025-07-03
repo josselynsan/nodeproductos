@@ -1,0 +1,70 @@
+[2025-07-03T17:49:40.266Z] Se creo un producto: [object SequelizeInstance:Producto][2025-07-03T17:51:52.368Z] Se creo un producto: [object SequelizeInstance:Producto][2025-07-03T17:52:29.651Z] Se creó un producto:
+{
+  "id": 8,
+  "nombre": "Juanperez5",
+  "precio": "5000",
+  "updatedAt": "2025-07-03T17:52:29.640Z",
+  "createdAt": "2025-07-03T17:52:29.640Z"
+}
+
+[2025-07-03T17:52:39.263Z] Se creó un producto:
+{
+  "id": 9,
+  "nombre": "Juanperez5",
+  "precio": "5000",
+  "updatedAt": "2025-07-03T17:52:39.215Z",
+  "createdAt": "2025-07-03T17:52:39.215Z"
+}
+
+[2025-07-03T17:57:02.174Z] Producto no encontrado: 11[2025-07-03T17:58:04.834Z] Producto no encontrado: 11
+[object Object]
+[2025-07-03T18:00:48.928Z] Producto no encontrado: 11
+
+{
+  "nombre": "Juanperez5",
+  "precio": "5000"
+}
+
+[2025-07-03T18:12:53.198Z] Producto actualizado: 9
+
+{
+  "nombre": "Juanperez9",
+  "precio": "4000"
+}
+
+[2025-07-03T18:14:06.059Z] Producto eliminado correctamente: 8
+[2025-07-03T18:14:18.232Z] Error al eliminar producto: Producto no encontrado
+Error: Producto no encontrado
+    at exports.delete (/home/josselyn/Documentos/GitHub/nodeproductos/api-productos/controllers/productoController.js:95:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-07-03T18:27:00.084Z] Producto no encontrado: 9
+[2025-07-03T18:27:27.438Z] Producto no encontrado: 9
+
+{
+  "nombre": "Juanperez9",
+  "precio": "4000"
+}
+
+[2025-07-03T18:27:48.047Z] Producto actualizado: 7
+
+{
+  "nombre": "Juanperez9",
+  "precio": "4000"
+}
+
+[2025-07-03T18:28:16.445Z] Producto actualizado: 7
+
+{
+  "nombre": "Juanperez9",
+  "precio": "4000"
+}
+
+[2025-07-03T18:39:32.268Z] Se creó un producto:
+{
+  "id": 10,
+  "nombre": "Juanperez3",
+  "precio": "3000",
+  "updatedAt": "2025-07-03T18:39:32.260Z",
+  "createdAt": "2025-07-03T18:39:32.260Z"
+}
+
